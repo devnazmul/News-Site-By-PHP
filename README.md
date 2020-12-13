@@ -14,9 +14,11 @@ For Wamp: C:\wamp\www
 
 # Step 3:
 Now goto http://localhost/phpmyadmin/ and create a new database named news-site.
-#step 4:
+
+# step 4:
 import .sql file from database folder of the downloaded folder.
-#step 5:
+
+# step 5:
 Now visit: http://localhost/limon.com/news-site/ 
 
 to go to the admin visit: http://localhost/limon.com/news-site/admin
